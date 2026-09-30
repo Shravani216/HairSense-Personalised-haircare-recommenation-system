@@ -68,10 +68,4 @@ The system provides suggestions related to:
 
 **Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Streamlit | Jupyter Notebook**
 
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 **Skills:** Python | SQL | Statistics | Machine Learning | Data Analysis | Power BI
